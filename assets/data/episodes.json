@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "title": "Episode 1",
+    "description": "In this conversation, \u2060meta-david\u2060 interviews \u2060Sandy Carter\u2060 from \u2060Unstoppable Domains\u2060. They discuss the benefits of Web3 and the features of Unstoppable Domains, such as easy domain ownership and digital identity. Sandy emphasizes the import…\n",
+    "audioUrl": "https://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Kangaroo_MusiQue_-_The_Neverwritten_Role_Playing_Game.mp3",
+    
+    "duration": 127,
+    "publishDate": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Episode 2",
+    "description": "meta-david\u2060\u2060\u2060\u2060 talks with the legendary Gabe Weis, a mixed-media artist living in the Bay Area. His work has been shown at Venice Biennale, Picasso Museum, Seattle Art Fair, and various galleries throughout Asia and the United States. Gabe recently launched The Stoics, a 5,000-piece NFT collection …\n",
+    "audioUrl": "https://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Kangaroo_MusiQue_-_The_Neverwritten_Role_Playing_Game.mp3",
+    
+    "duration": 127,
+    "publishDate": "2024-01-14T14:30:00Z"
+  },
+  {
+    "id": "3",
+    "title": "Episode 3",
+    "description": "Hello, gm gm! This is a trailer episode where we are transitioning from The Dead NFT Artist Society over to The Blockchain Experience. This episode contains an introduction to the re-branded show, discussion around the new minting mechanics, and lastly shout-outs to everyone who minted the last …",
+    "audioUrl": "https://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Kangaroo_MusiQue_-_The_Neverwritten_Role_Playing_Game.mp3",
+    
+    "duration": 127,
+    "publishDate": "2024-01-13T09:15:00Z"
+  },
+  {
+    "id": "4",
+    "title": "Episode 4",
+    "description": "Implementing audio streaming and playback in Flutter applications using just_audio package and best practices for media handling.",
+    "audioUrl": "https://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Kangaroo_MusiQue_-_The_Neverwritten_Role_Playing_Game.mp3",
+    
+    "duration": 127,
+    "publishDate": "2024-01-12T16:45:00Z"
+  },
+  {
+    "id": "5",
+    "title": "Episode 5",
+    "description": "Comprehensive guide to testing Flutter apps including unit tests, widget tests, and integration tests with practical examples.",
+    "audioUrl": "https://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Kangaroo_MusiQue_-_The_Neverwritten_Role_Playing_Game.mp3",
+    
+    "duration": 127,
+    "publishDate": "2024-01-11T11:20:00Z"
+  }
+]
